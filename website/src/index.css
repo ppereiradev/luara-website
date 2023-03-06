@@ -1,3 +1,31 @@
+@font-face {
+  font-family: "KaeliaRegular";
+  src: local("KaeliaRegular"),
+    url("./font/KaeliaRegular.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "KaeliaBold";
+  src: local("KaeliaBold"),
+    url("./font/KaeliaBold.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "KaeliaSemibold";
+  src: local("KaeliaSemibold"),
+    url("./font/KaeliaSemibold.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "RieskedaRegular";
+  src: local("RieskedaRegular"),
+    url("./font/RieskedaRegular.ttf") format("truetype");
+  font-weight: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
